@@ -3,7 +3,7 @@
 Автор: Лысов Павел
 
 |[Контест 1](https://contest.yandex.ru/contest/53548/standings/) |  |
-| --- | :-: || --- | :-: |
+| --- | :-: |
 | [1. Приближенное значение Пи](RepoRoot/contest_01/01/main.cpp) | ![](RepoRoot/img/ppcpp.ico) 
 | [2. Кислород](RepoRoot/contest_01/02/main.go) |  ![](RepoRoot/img/go_bbb.ico) |
 | [3. Частное](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
