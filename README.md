@@ -4,14 +4,15 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/53548/standings/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пи](RepoRoot/contest_01/01/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [1. Приближенное значение Пи](RepoRoot/contest_01/01/main.cpp) | ![](RepoRoot/img/ppcpp.ico) | |---| | [8. Максимум из трех чисел](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/go_bbb.ico) |
 | [2. Кислород](RepoRoot/contest_01/02/main.go) |  ![](RepoRoot/img/go_bbb.ico) |
 | [3. Частное](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
 | [4. Произведение](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/go_bbb.ico) |
 | [5. Индекс массы тела](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
 | [6. Банкомат](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/go_bbb.ico) |
 | [7. Максимум из двух чисел](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico)|
-| [8. Максимум из трех чисел](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/go_bbb.ico) |
+
+
 | [9. Длина гипотенузы](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
 | [10. Дерево решений](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/go_bbb.ico) |
 | [11. Ближайшая из трех точек](RepoRoot/contest_01/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
