@@ -27,7 +27,16 @@
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
-| [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/go.png) |
-| [2. Функция. Выход из лабиринта](./contest_02/02/main.go) |  ![](./img/go.png) |
-| [3. Функция. Сортировка по количеству единиц](./contest_02/03/main.cpp) | ![](./img/go.png) |
-| ... | ... |
+| [1. Функция. Простое число](RepoRoot/contest_02/01/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [2. Функция. Выход из лабиринта](RepoRoot/contest_02/02/main.cpp) |  ![](RepoRoot/img/ppcpp.ico) |
+| [3. Функция. Сортировка по количеству единиц](RepoRoot/contest_02/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [4. Функция. Сумма дробей](RepoRoot/contest_02/04/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [5. Структура. Комплексное число](RepoRoot/contest_02/05/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [6. Список студентов](RepoRoot/contest_02/06/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [7. Кандидаты на отчисление](RepoRoot/contest_02/07/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [8. Функция. Палиндром с игнорированием](RepoRoot/contest_02/08/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [9. Функция. Счастливый билет](RepoRoot/contest_02/09/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [10. Функция. Сдвиг элементов массива](RepoRoot/contest_02/10/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [11. Функция. Валидатор судоку](RepoRoot/contest_02/11/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [12. Функция. Сапёр (поле)](RepoRoot/contest_02/12/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+
