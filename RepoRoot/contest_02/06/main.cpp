@@ -50,10 +50,10 @@ int main()
     std::cin.ignore(1);  // Убираем из потока символ \n для корректной работы getline
 
     std::vector<Student> students(count);
-    for (auto& student : students) {
+    for (auto& student : students) { //записывает значения в вектор чз getline игнорируя пробелы
         std::string line;
         std::getline(std::cin, line);
-        student = make_student(line);
+        student = make_student(line); //принимает на вход строку с именем студента и номером группы, извлеает подстороки с именем и группой, записывает в структуру
     }
   
     std::sort(students.begin(), students.end(), is_upper);
