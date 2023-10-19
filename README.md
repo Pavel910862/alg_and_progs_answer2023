@@ -40,3 +40,15 @@
 | [11. Функция. Валидатор судоку](RepoRoot/contest_02/11/main.go) | ![](RepoRoot/img/go_bbb.ico) |
 | [12. Функция. Сапёр (поле)](RepoRoot/contest_02/12/main.go) | ![](RepoRoot/img/go_bbb.ico) |
 
+|[Контест 3](https://contest.yandex.ru/contest/53550/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](RepoRoot/contest_03/01/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [2. Валидатор скобочной последовательности](RepoRoot/contest_03/02/main.cpp) |  ![](RepoRoot/img/ppcpp.ico) |
+| [3. Обратная польская нотация](RepoRoot/contest_03/03/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [4. Общие слова в последовательностях](RepoRoot/contest_03/04/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [5. Самое частое слово](RepoRoot/contest_03/05/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [6. Баланс пользователя](RepoRoot/contest_03/06/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [7. Какое следующее слово](RepoRoot/contest_03/07/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
+| [8. Уникальное число](RepoRoot/contest_03/08/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [9. Подходящая пара чисел](RepoRoot/contest_03/09/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+
