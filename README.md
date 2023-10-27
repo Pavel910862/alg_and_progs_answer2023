@@ -50,5 +50,5 @@
 | [6. Баланс пользователя](RepoRoot/contest_03/06/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
 | [7. Какое следующее слово](RepoRoot/contest_03/07/main.cpp) | ![](RepoRoot/img/ppcpp.ico) |
 | [8. Уникальное число](RepoRoot/contest_03/08/main.go) | ![](RepoRoot/img/go_bbb.ico) |
-| [9. Подходящая пара чисел](RepoRoot/contest_03/09/main.go) | ![](RepoRoot/img/go_bbb.ico) |
+| [9. Подходящая пара чисел](RepoRoot/contest_03/09/main.go) | ![](RepoRoot/img/ppcpp.ico) |
 
